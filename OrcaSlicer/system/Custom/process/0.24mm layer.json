@@ -1,0 +1,20 @@
+{
+    "type": "process",
+    "setting_id": "GP004",
+    "name": "0.24mm layer",
+    "from": "system",
+    "instantiation": "true",
+    "inherits": "fdm_process_sigmaz_common",
+	"layer_height": "0.24",
+	"initial_layer_print_height": "0.24",
+    "support_top_z_distance": "0.24",
+    "support_bottom_z_distance": "0.24",
+    "compatible_printers": [
+		"SigmaZ 0.4 nozzle",
+        "SigmaZ 0.6 nozzle",
+		"SigmaZ 0.8 nozzle",
+		"SigmaZ 1.0 nozzle",
+		"SigmaZ 1.2 nozzle",
+		"SigmaZ 1.4 nozzle"
+    ]
+}

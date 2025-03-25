@@ -1,0 +1,14 @@
+{
+	"type": "machine",
+	"setting_id": "GM006",
+	"name": "SigmaZ 1.2 nozzle",
+	"from": "system",
+	"instantiation": "true",
+	"inherits": "fdm_sigmaz_common",
+	"printer_model": "SigmaZ",
+	"printer_variant": "1.2",
+
+	"nozzle_diameter": ["1.2", "1.2"],
+	"min_layer_height": ["0.30", "0.30"],
+	"max_layer_height": ["0.96", "0.96"]
+}

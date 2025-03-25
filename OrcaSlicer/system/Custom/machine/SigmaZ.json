@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "SigmaZ",
+    "model_id": "my_klipper_01",
+    "nozzle_diameter": "0.15;0.25;0.4;0.6;0.8;1.0;1.2;1.4",
+    "machine_tech": "FFF",
+    "family": "MyPrinter",
+    "bed_model": "",
+    "bed_texture": "",
+    "hotend_model": "",
+    "default_materials": "Generic ABS;Generic PLA;Generic PLA-CF;Generic PETG;Generic TPU;Generic ASA;Generic PC;Generic PVA;Generic PA;Generic PA-CF"
+}

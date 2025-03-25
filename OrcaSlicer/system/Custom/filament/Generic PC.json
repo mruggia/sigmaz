@@ -1,0 +1,19 @@
+{
+    "type": "filament",
+    "filament_id": "GFC99",
+    "setting_id": "GFSA04",
+    "name": "Generic PC",
+    "from": "system",
+    "instantiation": "true",
+    "inherits": "fdm_filament_pc",
+    "compatible_printers": [
+        "SigmaZ 0.15 nozzle",
+        "SigmaZ 0.25 nozzle",
+        "SigmaZ 0.4 nozzle",
+        "SigmaZ 0.6 nozzle",
+		"SigmaZ 0.8 nozzle",
+		"SigmaZ 1.0 nozzle",
+		"SigmaZ 1.2 nozzle",
+		"SigmaZ 1.4 nozzle"
+    ]
+}

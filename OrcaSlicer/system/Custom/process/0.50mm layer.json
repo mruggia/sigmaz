@@ -1,0 +1,22 @@
+{
+	"type": "process",
+	"setting_id": "GP004",
+	"name": "0.50mm layer",
+	"from": "system",
+	"instantiation": "true",
+	"inherits": "fdm_process_sigmaz_common",
+	"layer_height": "0.50",
+	"initial_layer_print_height": "0.50",
+	"support_top_z_distance": "0.50",
+	"support_bottom_z_distance": "0.50",
+	"bottom_shell_layers": "2",
+	"top_shell_layers": "3",
+	"wall_loops": "2",
+	"sparse_infill_density": "10%",
+	"compatible_printers": [
+		"SigmaZ 0.8 nozzle",
+		"SigmaZ 1.0 nozzle",
+		"SigmaZ 1.2 nozzle",
+		"SigmaZ 1.4 nozzle"
+	]
+}
